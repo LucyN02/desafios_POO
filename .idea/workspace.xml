@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e0e8378-ae46-4461-af04-ed134dbe6a1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banco_orientacao_objeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animais/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animais/TestaAnimais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contaBancaria/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contaBancaria/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contaBancaria/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contaBancaria/TesteContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controleRemoto/ControleRemoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controleRemoto/TesteControleRemoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulamento/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulamento/TestaFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estoqueLoja/ControleLoja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estoqueLoja/ControleLojaCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estoqueLoja/ControleLojaSwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Contratacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Coordenador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodoSobrecarregado/MetodoSobrecarregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodoSobrecarregado/TesteMetodosSobrecarregados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teste_interface/Leitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teste_interface/ParticipanteForum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teste_interface/Programador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teste_interface/TesteInterface.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JGua3kO9q9zRtWbXrjjxwzzdiz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Luciana/Documents/pratica_poo_java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ControleLojaSwitchCase">
+    <configuration name="ControleLoja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estoqueLoja.ControleLoja" />
+      <module name="banco_orientacao_objeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estoqueLoja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControleLojaSwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estoqueLoja.ControleLojaSwitchCase" />
+      <module name="banco_orientacao_objeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estoqueLoja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaAnimais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animais.TestaAnimais" />
+      <module name="banco_orientacao_objeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="animais.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulamento.TestaFuncionario" />
+      <module name="banco_orientacao_objeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste_interface.TesteInterface" />
+      <module name="banco_orientacao_objeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ControleLojaSwitchCase" />
+        <item itemvalue="Application.TestaAnimais" />
+        <item itemvalue="Application.ControleLoja" />
+        <item itemvalue="Application.TesteInterface" />
+        <item itemvalue="Application.TestaFuncionario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e0e8378-ae46-4461-af04-ed134dbe6a1a" name="Changes" comment="" />
+      <created>1671716802502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671716802502</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
